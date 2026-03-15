@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shivani0197/Shivani0197/blob/main/Software%20Developer%20(1).png)
 
 # 💫 Hi 👋, I'm Shivani Jha
-**A passionate Python Software Developer || Fresher
+**A passionate Java Full-Stack Developer || Fresher
 
 Email Me 👉 ✉️ **jhashivani681@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
